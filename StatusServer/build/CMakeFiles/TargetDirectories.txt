@@ -1,0 +1,4 @@
+/home/nmt/myProjects/chat/StatusServer/build/CMakeFiles/StatusServer.dir
+/home/nmt/myProjects/chat/StatusServer/build/CMakeFiles/SServer.dir
+/home/nmt/myProjects/chat/StatusServer/build/CMakeFiles/edit_cache.dir
+/home/nmt/myProjects/chat/StatusServer/build/CMakeFiles/rebuild_cache.dir

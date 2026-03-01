@@ -1,0 +1,4 @@
+/home/nmt/myProjects/chat/GateServer/build/CMakeFiles/GateServer.dir
+/home/nmt/myProjects/chat/GateServer/build/CMakeFiles/CServer.dir
+/home/nmt/myProjects/chat/GateServer/build/CMakeFiles/edit_cache.dir
+/home/nmt/myProjects/chat/GateServer/build/CMakeFiles/rebuild_cache.dir

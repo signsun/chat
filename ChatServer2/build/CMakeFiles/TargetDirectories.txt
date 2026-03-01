@@ -1,0 +1,4 @@
+/home/nmt/myProjects/chat/ChatServer2/build/CMakeFiles/chatServer.dir
+/home/nmt/myProjects/chat/ChatServer2/build/CMakeFiles/CServer.dir
+/home/nmt/myProjects/chat/ChatServer2/build/CMakeFiles/edit_cache.dir
+/home/nmt/myProjects/chat/ChatServer2/build/CMakeFiles/rebuild_cache.dir
